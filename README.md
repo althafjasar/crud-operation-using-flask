@@ -13,3 +13,4 @@ OK after the installation first you need to create a database, i have used https
 You will receive a username and password for the database server and login to that server and import the csv file.
 
 create a REST API that allows the user to do basic CRUD operations on the data. You will have to use the python library of the database to perform these operations on the objects.
+You can find the solution in app.py the connection and code for the same
